@@ -68,4 +68,4 @@ client.on('warn', console.warn);
 client.on('error', console.error);
 
 //token
-client.login(TOKEN);
+client.login(MTA2NDA5MTQyMDQ2NzY3NTIxNg.GF0sq-.YASz5_Je9Fc9b7COTX8ROQwXHoH1XWeADtlMDY);
